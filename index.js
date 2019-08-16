@@ -172,4 +172,4 @@ s.on('request', function(request, response) {
 s.listen(port);
 console.log('Browse to http://127.0.0.1:' + port);
 
-bot.login('NDY5ODkxODk4MDM5OTkyMzIx.DuhgVg.h65sB-BO5ysOn5fzJKKXlYiXnbc');
+bot.login('NDY5ODkxODk4MDM5OTkyMzIx.XVchYQ.PPCIho3oMqvqpXWbGFiYXTDCs00');
